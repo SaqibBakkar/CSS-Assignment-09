@@ -1,0 +1,162 @@
+div ul{
+    margin-left: 500px !important;
+}
+
+.div{
+    text-align: center !important;
+    background-color: black !important;
+    margin: 5px !important;
+}
+
+.div button{
+    margin-bottom: 50px !important;
+}
+
+.color{
+    background-color: rgba(128, 128, 128, 0.178) !important;
+}
+
+.color button{
+    background-color: rgba(128, 128, 128, 0.178) !important;
+}
+
+.div2{
+    text-align: center !important;
+    margin-top: 5px !important;
+}
+
+.div3{
+    border-top: 1px solid black !important;
+    border-bottom: 1px solid black !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+.para1{
+    color: red !important;
+    text-transform: capitalize !important;
+    font-size: larger !important;
+    margin-top: 5px !important;
+}
+
+.heading{
+    text-align: center !important;
+}
+
+.para{
+    color: red !important;
+    text-transform: capitalize !important;
+    font-size: larger !important;
+}
+
+.div{
+    margin-top: 100px !important;
+}
+
+.div4{
+    text-align: center !important;
+}
+
+body h1,h3{
+    font-family: initial !important;
+}
+
+.div4 button{
+    margin-top: 50px !important;
+    margin-bottom: 40px !important;
+}
+
+.div6{
+    background-color: black !important;
+}
+
+.div6 h1{
+    margin-top: 20px !important;
+}
+
+.span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+.div7{
+    text-align: center !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+
+.margin{
+    margin-left: 8px !important;
+}
+
+.card2{
+    background-color: black !important;
+    padding-top:  50px !important;
+}
+
+.card11{
+    color: black !important;
+    text-align: center !important;
+    background-color: white !important;
+    border: 1px solid black !important;
+    border-radius: 8px !important;
+    width: 330px !important;
+    margin: 20px !important;
+    height: 250px !important;
+    padding-top: 30px !important ;
+}
+
+.card12{
+    color: black !important;
+    text-align: center !important;
+    background-color: white !important;
+    border: 1px solid black !important;
+    border-radius: 8px !important;
+    width: 350px !important;
+    height: 250px !important;
+    margin: 20px !important;
+    padding-top: 30px !important ;
+}
+
+.card13{
+    color: black !important;
+    text-align: center !important;
+    background-color: white !important;
+    border: 1px solid black !important;
+    border-radius: 8px !important;
+    width: 350px !important;
+    height: 250px !important;
+    margin: 20px !important;
+    padding-top: 30px !important ;
+}
+
+.card22 img{
+    width: 200px !important;
+    height: 200px !important;
+    padding: 10px !important;
+    text-align: center !important;
+    background-color: black !important;
+    margin-bottom: 30px !important;
+}
+
+.text-light{
+    text-align: center !important;
+    padding: 20px !important;
+}
+
+.div33{
+    background-color: black !important;
+    text-align: center !important;
+    padding-top: 50px !important;
+    margin-top: 10px !important;
+}
+
+.div33 h4{
+    font-family: inherit !important;
+}
+
+.para33{
+    text-align: justify !important;
+}
+
+
+
